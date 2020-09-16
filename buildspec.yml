@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     _PROJECT_NAME: "admin06-reward"
-    _DOCKER_IMAGE_NAME: "admin06-mypage"
+    _DOCKER_IMAGE_NAME: "admin06-reward"
 phases:
   install:
     runtime-versions:
